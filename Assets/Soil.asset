@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Soil
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4993540969899544935
+  m_GuidHigh: 5280440394675238833
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4759524794156405500
+      m_GuidHigh: 3499644667134184851
+    m_SerializedTextureGuid:
+      m_GuidLow: 15283004690289213065
+      m_GuidHigh: 16122794359186523659
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Soil_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5334287918257438236
+      m_GuidHigh: 594674923830039937
+    m_SerializedTextureGuid:
+      m_GuidLow: 14172515697995305027
+      m_GuidHigh: 17720429857473823242
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Soil_2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5673653183194981087
+      m_GuidHigh: 4322494101571371170
+    m_SerializedTextureGuid:
+      m_GuidLow: 13034611756176080314
+      m_GuidHigh: 16079880745109483738
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Soil_3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5565518836318486439
+      m_GuidHigh: 5301847245075984303
+    m_SerializedTextureGuid:
+      m_GuidLow: 333893278888366690
+      m_GuidHigh: 15507019588035414376
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Soil_4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5584877231286716415
+      m_GuidHigh: 537996113774499263
+    m_SerializedTextureGuid:
+      m_GuidLow: 328285409116638990
+      m_GuidHigh: 12739854094494539547
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Soil_5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4867158910320951902
+      m_GuidHigh: 10615161257624085161
+    m_SerializedTextureGuid:
+      m_GuidLow: 7275243438685587236
+      m_GuidHigh: 15758525415778586106
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Soil_6
+    m_Texture: {fileID: 0}
